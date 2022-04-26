@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/LarsToreSlettan/larstoreslettan-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <style>
+    
+    
+    body  {
+      background-color: red;
+    }
+    
+  </style>
+  
+  
+  
+  
+  
+  
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>Test for matematikkløype</h1>
+  
+ <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEXyZSX///8FBwcAAADxVwD+8evyYRv1km3yXAv2w7Pp6emtrq5hYWH37uryWgDt7e3T09P32M3qjGv1jWb+9vL949nx8fFZWVnBwcGen5/c3d300cXznoDph2PvrJT0f1LxSwDy39j5u6bNos4XAAABiklEQVR4nO3byXKCQBRAUQ2IU0QTNWYy0/9/ZLJJVVY8zQMKrXP3Tfcp2D16dNN7xXr8p/ls1HGEhISEhISEhISEhISEhISEhISEhISEhISEhH0Ji/Y7S1iVzdVZYbFZL9pufIaw2u4mje1D4lmfVAdFwmmwflJmhYtgB0JCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQsK2hA9XLzzcpjo8Dl2YngEvBy9MRkhISEhISEhISEhISEhISEhISEhISEhISHiy8OpnT8XTMtfz4IXuHxISEhISEhISEhISEhISEhISEhISEhISEhIStiV8med6rYYuPJazVM3AIQjvgyMmIyQkJCQkJCQkJCQkJOxJGP3FfPnCTVCwwQUIIwEhISEhISEhIeE1CI+zKlfnwrugSPi2naZ673x+WDf3sTr9df6r7mfAQSUhISEhISEhISEhISEhISEhISEhISEhISEhYUvC+nPV3CTX7isQbnfND9jXSeGoLrutGfhDDNangZIkSZIkSZIkSZJ++wb7Ws4NPPrlHwAAAABJRU5ErkJggg==">
 
-### Markdown
+<p>My first paragraph.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</body>
+</html>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LarsToreSlettan/larstoreslettan-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
